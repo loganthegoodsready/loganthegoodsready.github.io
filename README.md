@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-**[Link]**(https://scratch.mit.edu/projects/718450845)
+## **[Link]**(https://scratch.mit.edu/projects/718450845)
 
 You can use the [editor on GitHub](https://github.com/loganthegoodsready/loganthegoodsready.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
