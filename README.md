@@ -1,4 +1,4 @@
-### Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
+# Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
