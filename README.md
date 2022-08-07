@@ -1,4 +1,4 @@
-## **[Link]**(https://scratch.mit.edu/projects/718450845)
+Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
 
 You can use the [editor on GitHub](https://github.com/loganthegoodsready/loganthegoodsready.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
